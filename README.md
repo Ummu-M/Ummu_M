@@ -1,5 +1,6 @@
-💫 About Me:
-<br><br> 🔭 I’m currently working on **building cross-platform applications**<br>- 👯 I’m looking to collaborate on **projects that solve real-world problems (especially in Africa)**<br>- 🤝 I’m looking for help with **Firebase and Cloud integration**<br>- 🌱 I’m currently learning **Flutter(Dart), Java, Web Development, Python & Networking**<br>- 💬 Ask me about **the names I picked for my future cats**<br>- ⚡ Fun fact **I know Morse code**
+<div align="center">
+ <b>About Me:</b> <br><br>
+🔭 I’m currently working on <b>building cross-platform applications</b> <br> I’m looking to collaborate on <b>projects that solve real-world problems (especially in Africa)</b> <br>-  I’m looking for help with <b>Firebase and Cloud integration</b> <br>-  I’m currently learning <b>Flutter(Dart), Java, Web Development, Python & Networking</b> <br>-  Ask me about <b>the names I picked for my future cats</b> <br>- Fun fact <b>I know Morse code</b>
 
 
 ## 🌐 Socials:
@@ -7,15 +8,21 @@
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ummu-M&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ummu-M&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ummu-M&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+# 📊 GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ummu-M&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Ummu-M&theme=synthwave&hide_border=false" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ummu-M&theme=synthwave&hide_border=false&layout=compact" />
+
+### 🍋 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ummu-M&icon=9&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly Created By Ummu
+</div>
