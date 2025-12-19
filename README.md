@@ -1,5 +1,5 @@
 💫 About Me:
-### About Me:<br><br>- 🔭 I’m currently working on **building cross-platform applications**<br>- 👯 I’m looking to collaborate on **projects that solve real-world problems (especially in Africa)**<br>- 🤝 I’m looking for help with **Firebase and Cloud integration**<br>- 🌱 I’m currently learning **Flutter(Dart), Java, Web Development, Python & Networking**<br>- 💬 Ask me about **the names I picked for my future cats**<br>- ⚡ Fun fact **I know Morse code**
+<br><br> 🔭 I’m currently working on **building cross-platform applications**<br>- 👯 I’m looking to collaborate on **projects that solve real-world problems (especially in Africa)**<br>- 🤝 I’m looking for help with **Firebase and Cloud integration**<br>- 🌱 I’m currently learning **Flutter(Dart), Java, Web Development, Python & Networking**<br>- 💬 Ask me about **the names I picked for my future cats**<br>- ⚡ Fun fact **I know Morse code**
 
 
 ## 🌐 Socials:
